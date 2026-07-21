@@ -10,6 +10,7 @@ Python 3.8 及以上版本，仅使用Python标准库，无需额外安装第三
 ```bash
 git clone https://github.com/BISTU-OSSD/practice-group3.git
 cd practice-group3
+```
 
 ## 四、功能使用说明
 1. 课表解析模块
@@ -26,8 +27,10 @@ cd practice-group3
 
 ## 五、单元测试使用指南
 项目所有测试用例统一存放在 `tests/` 文件夹内，一键执行全部测试脚本：
+
 ```bash
 python -m unittest discover tests
+```
 
 ## 六、小组开发分工
 项目组长：鹿婧卓
